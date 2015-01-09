@@ -5,8 +5,8 @@
 
 ----
 ##ファイル名
-* ep#.storyname.dat: 準備作業用直訳風。
-* ep#.storyname.2.dat: β版。
+* ep#.title.dat: 準備作業用直訳風。
+* ep#.title.2.dat: β版。
 
 ----
 ##注意点
