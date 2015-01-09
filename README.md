@@ -4,9 +4,13 @@
 [池澤夏樹個人編集 日本文学全集 | 河出書房新社](http://www.kawade.co.jp/nihon_bungaku_zenshu/) に所収予定の現代語訳「雨月物語」の草稿である。
 
 ----
+##ディレクトリ
+* ./: md 置き場。閲覧用。source から変換したもの。
+* ./source/: 作業データ置き場。本文の編集はこちらで行う。  
+
 ##ファイル名
-* ep#.title.dat: 準備作業用直訳風。
-* ep#.title.2.dat: β版。
+* ep#.title.(dat|md): 準備作業用直訳風。
+* ep#.title.2.(dat|md): β版。
 
 ----
 ##注意点
