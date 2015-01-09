@@ -1,7 +1,12 @@
 #雨月物語現代語訳（進行中）
 ----
 ##これは何
-[池澤夏樹個人編集 日本文学全集 | 河出書房新社](http://www.kawade.co.jp/nihon_bungaku_zenshu/)に所収予定の現代語訳「雨月物語」の草稿である。
+[池澤夏樹個人編集 日本文学全集 | 河出書房新社](http://www.kawade.co.jp/nihon_bungaku_zenshu/) に所収予定の現代語訳「雨月物語」の草稿である。
+
+----
+##ファイル名
+* ep#.storyname.dat: 準備作業用直訳風。
+* ep#.storyname.2.dat: β版。
 
 ----
 ##注意点
